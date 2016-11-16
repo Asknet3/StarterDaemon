@@ -1,0 +1,9 @@
+c:\users\asknet\documents\visual studio 2015\Projects\StarterDaemon\StarterDaemon\bin\Debug\StarterDaemon.exe.config
+c:\users\asknet\documents\visual studio 2015\Projects\StarterDaemon\StarterDaemon\bin\Debug\StarterDaemon.exe
+c:\users\asknet\documents\visual studio 2015\Projects\StarterDaemon\StarterDaemon\bin\Debug\StarterDaemon.pdb
+c:\users\asknet\documents\visual studio 2015\Projects\StarterDaemon\StarterDaemon\obj\Debug\StarterDaemon.Properties.Resources.resources
+c:\users\asknet\documents\visual studio 2015\Projects\StarterDaemon\StarterDaemon\obj\Debug\StarterDaemon.StartForm.resources
+c:\users\asknet\documents\visual studio 2015\Projects\StarterDaemon\StarterDaemon\obj\Debug\StarterDaemon.csproj.GenerateResource.Cache
+c:\users\asknet\documents\visual studio 2015\Projects\StarterDaemon\StarterDaemon\obj\Debug\StarterDaemon.exe
+c:\users\asknet\documents\visual studio 2015\Projects\StarterDaemon\StarterDaemon\obj\Debug\StarterDaemon.pdb
+c:\users\asknet\documents\visual studio 2015\Projects\StarterDaemon\StarterDaemon\obj\Debug\StarterDaemon.csprojResolveAssemblyReference.cache
